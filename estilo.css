@@ -11,3 +11,22 @@ p{
 .modif-1{
     border: 4px solid violet;
 }
+.modif-2{
+    border: 4px solid rgb(213, 174, 174);
+    width: 400px;
+}
+.modif-3{
+    border: 4px solid rgb(120, 120, 176);
+}
+.modif-4{
+    border: 4px solid rgb(187, 93, 93);
+    width: 500px;
+}
+
+#img-especial{
+    border: 4px dotted black;
+}
+
+#p-especial{
+    border-bottom: 5px solid gray;
+}
